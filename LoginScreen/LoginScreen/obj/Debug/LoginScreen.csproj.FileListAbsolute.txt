@@ -1,0 +1,13 @@
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\bin\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csprojResolveAssemblyReference.cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form1.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Properties.Resources.resources
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.csproj.GenerateResource.Cache
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
+C:\Users\Faslam maX\Documents\login screen\LoginScreen\LoginScreen\obj\Debug\LoginScreen.Form2.resources
+E:\C# Tutorial\New Project\LoginScreen\LoginScreen\bin\Debug\LoginScreen.exe.config
+E:\C# Tutorial\New Project\LoginScreen\LoginScreen\obj\Debug\LoginScreen.exe
+E:\C# Tutorial\New Project\LoginScreen\LoginScreen\obj\Debug\LoginScreen.pdb
